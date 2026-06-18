@@ -1,6 +1,6 @@
 # Responsive Landing Page
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://darvoidx.github.io/SCT_WD_1/)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://darvoidx.github.io/SCT_WD_1/SCT_WD_1)
 
 A clean, modern, and responsive landing page built with HTML, CSS, and JavaScript for the SkillCraft Technology Web Development Internship (Task 1).
 
@@ -22,4 +22,4 @@ A clean, modern, and responsive landing page built with HTML, CSS, and JavaScrip
 ## Author
 **Darshan Naidu**
 
-
+
